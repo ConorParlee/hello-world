@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+My first Resporitory.
 Student at WIT.
